@@ -11,15 +11,14 @@
 - **Cloud**: AWS, Docker
 
 ### 🏆 Achievements
-- 🥇 TryHackMe: [Top 15%] - 8,500+ points
+- 🥇 TryHackMe: Active player - Profile Cyberpablo
 - 🎯 HackTheBox: Active player - Profile #673429
-- 🚀 75+ CTF challenges completed
 
 ### 📈 Current Focus
 - 📚 Preparing for CompTIA Security+ certification
-- 🔍 Building SOC home lab with real-world scenarios
+- ⚡ Training with SOCś labs
 - 💻 Contributing to open-source security tools
 
 ### 📫 Let's Connect!
-- LinkedIn: [tu-linkedin-aqui]
+- LinkedIn: linkedin.com/in/pablo-caraballo-fernández-a12938358
 - Email: pablocaraballofndz@gmail.com
