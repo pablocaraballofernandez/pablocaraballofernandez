@@ -16,7 +16,7 @@
 
 ### 📈 Current Focus
 - 📚 Preparing for CompTIA Security+ certification
-- ⚡ Training with SOCś labs
+- ⚡ Training with SOC's labs
 - 💻 Contributing to open-source security tools
 
 ### 📫 Let's Connect!
