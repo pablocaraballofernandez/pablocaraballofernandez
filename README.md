@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there! I'm Pablo Caraballo 👋
 
-<!--
-**pablocaraballofernandez/pablocaraballofernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity Specialist** passionate about SOC Operations, Penetration Testing, and Digital Forensics
 
-Here are some ideas to get you started:
+🎓 Currently completing specialization in Cybersecurity in IT Environments at I.E.S Mar de Cádiz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **SIEM**: Splunk, ELK Stack, QRadar, Wazuh
+- **Pentesting**: Metasploit, Burp Suite, Nmap
+- **Forensics**: Autopsy, Volatility, YARA
+- **Cloud**: AWS, Docker
+
+### 🏆 Achievements
+- 🥇 TryHackMe: [Top 15%] - 8,500+ points
+- 🎯 HackTheBox: Active player - Profile #673429
+- 🚀 75+ CTF challenges completed
+
+### 📈 Current Focus
+- 📚 Preparing for CompTIA Security+ certification
+- 🔍 Building SOC home lab with real-world scenarios
+- 💻 Contributing to open-source security tools
+
+### 📫 Let's Connect!
+- LinkedIn: [tu-linkedin-aqui]
+- Email: pablocaraballofndz@gmail.com
