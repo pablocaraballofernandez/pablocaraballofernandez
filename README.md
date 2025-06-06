@@ -15,9 +15,7 @@
 - 🎯 HackTheBox: Active player - Profile #673429
 
 ### 📈 Current Focus
-- 📚 Preparing for CompTIA Security+ certification
 - ⚡ Training with SOC's labs
-- 💻 Contributing to open-source security tools
 
 ### 📫 Let's Connect!
 - LinkedIn: linkedin.com/in/pablo-caraballo-fernández-a12938358
