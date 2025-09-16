@@ -22,8 +22,7 @@ class CybersecuritySpecialist:
     def current_status(self):
         return " Actively seeking opportunities in offensive security, defense, and forensic analysis"
 ```
-
-Técnico en **Telecomunicaciones e Informática** con especialización en **Ciberseguridad en Entornos TI**. Profesional autodidacta, apasionado por la tecnología y orientado a la acción. Busco integrarme en equipos donde pueda aplicar y expandir mis habilidades en seguridad informática.
+**Telecommunications and IT Technician** with a specialization in **Cybersecurity in IT Environments**. A self-taught professional, passionate about technology and driven to take action. I’m looking to join a team where I can apply and further develop my skills in information security.
 
 ## Technical Skills
 
